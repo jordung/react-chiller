@@ -4,7 +4,7 @@ import information from "../assets/images/information.svg";
 
 function Product() {
   return (
-    <div className="pt-20 max-sm:mx-12">
+    <div className="py-20 max-sm:mx-12 bg-gray-100">
       <div
         id="product"
         className="container mx-auto w-2/3 pt-28 rounded-xl flex justify-center align-center max-sm:w-screen max-sm:flex-col max-sm:text-center"

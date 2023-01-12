@@ -1,6 +1,6 @@
 function Enterprise() {
   return (
-    <div className="pt-20 max-sm:mx-12">
+    <div className="py-20 max-sm:mx-12">
       <div
         id="enterprise"
         className="container mx-auto w-full pt-12 rounded-xl flex justify-center align-center max-sm:w-screen max-sm:flex-col max-sm:text-center"
@@ -27,21 +27,21 @@ function Enterprise() {
           <div className="flex justify-around align-center w-full mt-8">
             <div className="w-44 text-left">
               <h1 className="text-primary font-bold text-6xl">73%</h1>
-              <p className="text-sm text-left">
+              <p className="text-sm text-black">
                 of users say Chiller has improved workflow
               </p>
             </div>
 
             <div className="w-44 text-left">
               <h1 className="text-primary font-bold text-6xl">80%</h1>
-              <p className="text-sm text-left">
+              <p className="text-sm text-black">
                 feel more connected with their teams
               </p>
             </div>
 
             <div className="w-44 text-left">
               <h1 className="text-primary font-bold text-6xl">96%</h1>
-              <p className="text-sm text-left">
+              <p className="text-sm text-black">
                 feel their ability to work remotely has improved
               </p>
             </div>
