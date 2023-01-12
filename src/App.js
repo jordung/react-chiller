@@ -1,7 +1,8 @@
 import "./App.css";
-import About from "./components/About";
+import Product from "./components/Product";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import Enterprise from "./components/Enterprise";
 
 function App() {
   //TODO: Fix css for mobile designs
@@ -9,7 +10,8 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <About />
+      <Product />
+      <Enterprise />
     </>
   );
 }

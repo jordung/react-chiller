@@ -2,14 +2,14 @@ import sharing from "../assets/images/sharing.svg";
 import anywhere from "../assets/images/anywhere.svg";
 import information from "../assets/images/information.svg";
 
-function About() {
+function Product() {
   return (
-    <>
+    <div className="pt-20 max-sm:mx-12">
       <div
-        id="about"
-        className="container mx-auto w-2/3 pt-28 rounded-xl flex justify-center align-center"
+        id="product"
+        className="container mx-auto w-2/3 pt-28 rounded-xl flex justify-center align-center max-sm:w-screen max-sm:flex-col max-sm:text-center"
       >
-        <div className="w-1/3 mr-20">
+        <div className="w-1/3 mr-20 max-sm:w-full">
           <h1 className="text-5xl font-bold mb-4">
             Bring Your Team <span className="text-primary">Together</span>
           </h1>
@@ -20,9 +20,13 @@ function About() {
             allow for cross-departmental efforts.
           </p>
         </div>
-        <img className="w-1/3" src={sharing} alt="sharing" />
+        <img className="w-1/3 max-sm:w-full" src={sharing} alt="sharing" />
       </div>
-      <div className="container mx-auto w-2/3 mt-28 rounded-xl flex justify-center align-center">
+      <div
+        id="product"
+        className="container mx-auto w-2/3 pt-28 rounded-xl flex justify-center align-center max-sm:w-screen max-sm:flex-col max-sm:text-center"
+      >
+        {" "}
         <img className="w-1/3" src={anywhere} alt="anywhere" />
         <div className="w-1/3 ml-20">
           <h1 className="text-5xl font-bold mb-4">
@@ -47,8 +51,8 @@ function About() {
         </div>
         <img className="w-1/3" src={information} alt="information" />
       </div>
-    </>
+    </div>
   );
 }
 
-export default About;
+export default Product;
