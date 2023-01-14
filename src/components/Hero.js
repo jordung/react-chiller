@@ -6,7 +6,7 @@ import google from "../assets/images/google-logo.svg";
 
 function Hero(props) {
   return (
-    <div className="max-sm:pt-40 max-sm:w-screen max-sm:mx-12 container mx-auto w-2/3 pt-28 rounded-xl flex flex-col justify-evenly align-center h-screen">
+    <div className="max-sm:pt-12 max-sm:w-screen max-sm:px-4 container mx-auto w-2/3 pt-28 rounded-xl flex flex-col justify-evenly align-center h-screen">
       <div className="flex max-sm:flex-col">
         <div className="w-1/2 pt-14 max-sm:w-full">
           <h1 className="text-8xl text-transparent font-bold mb-1 bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">
@@ -15,7 +15,7 @@ function Hero(props) {
           <p className="text-gray-600 font-bold text-2xl text-lg mb-5">
             Melt Better Together.
           </p>
-          <p className="text-black text-lg">
+          <p className="text-black text-lg max-sm:text-sm">
             Introducing the newest way to communicate, interact, and work.
             <br />
             <br />
@@ -40,20 +40,20 @@ function Hero(props) {
               </span>
             </button>
           </div>
-          <p className="mt-2 text-gray-400 opacity-80">
+          {/* <p className="mt-2 text-gray-400 opacity-80">
             This is a fictitious site.
-          </p>
+          </p> */}
         </div>
         <div className="w-1/2 m-0 p-0 max-sm:pt-5 max-sm:w-full">
           <img src={hero} alt="hero" className="relative w-full object-cover" />
         </div>
       </div>
-      <div className="pt-44 flex justify-center align-items-center max-sm:pt-5 max-sm:text-center">
+      <div className="pt-20 flex justify-center align-items-center max-sm:pt-5 max-sm:text-center 2xl:pt-44">
         <p className="text-gray-400 text-base font-bold tracking-wide">
           TRUSTED BY COMPANIES ALL OVER THE WORLD
         </p>
       </div>
-      <div className="flex gap-10 -mt-5 justify-center align-items-center max-sm:mt-0 max-sm:pb-10">
+      <div className="flex gap-10 -mt-5 justify-center align-items-center max-sm:mt-0 max-sm:pb-10 max-sm:gap-5">
         <img
           className="w-auto h-5 mt-3 opacity-50 hover:opacity-100 transition duration-250"
           src={uber}

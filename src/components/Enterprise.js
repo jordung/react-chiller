@@ -1,9 +1,9 @@
 function Enterprise() {
   return (
-    <div className="py-20 max-sm:mx-12">
+    <div className="pb-20 max-sm:mx-12">
       <div
         id="enterprise"
-        className="container mx-auto w-full pt-12 rounded-xl flex justify-center align-center max-sm:w-screen max-sm:flex-col max-sm:text-center"
+        className="container mx-auto w-full pt-28 rounded-xl flex justify-center align-center max-sm:w-screen max-sm:flex-col max-sm:text-center"
       >
         <div className="flex flex-col justify-center align-items-center text-center w-2/3">
           <p className="text-primary text-base font-bold tracking-wide">
