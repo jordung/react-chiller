@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-chiller/static/css/main.7bb77109.css",
-    "main.js": "/react-chiller/static/js/main.243e051f.js",
+    "main.css": "/react-chiller/static/css/main.3d31112d.css",
+    "main.js": "/react-chiller/static/js/main.869d79c7.js",
     "static/media/react-logo.png": "/react-chiller/static/media/react-logo.81ed438b18e24116794d.png",
     "static/media/tailwind-logo.png": "/react-chiller/static/media/tailwind-logo.46d61abb086e8a8bd39e.png",
     "static/media/sharing.svg": "/react-chiller/static/media/sharing.765e37e990d942dba2ffb75b671194f0.svg",
@@ -13,11 +13,11 @@
     "static/media/airbnb-logo.svg": "/react-chiller/static/media/airbnb-logo.7af2ee95625e51c5e2c7723e075fe865.svg",
     "static/media/google-logo.svg": "/react-chiller/static/media/google-logo.64742f6405be8486218c501395b08ccb.svg",
     "index.html": "/react-chiller/index.html",
-    "main.7bb77109.css.map": "/react-chiller/static/css/main.7bb77109.css.map",
-    "main.243e051f.js.map": "/react-chiller/static/js/main.243e051f.js.map"
+    "main.3d31112d.css.map": "/react-chiller/static/css/main.3d31112d.css.map",
+    "main.869d79c7.js.map": "/react-chiller/static/js/main.869d79c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bb77109.css",
-    "static/js/main.243e051f.js"
+    "static/css/main.3d31112d.css",
+    "static/js/main.869d79c7.js"
   ]
 }
