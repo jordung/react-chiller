@@ -36,7 +36,7 @@ function Product() {
             </p>
           </div>
         </div>
-        <div className="container mx-auto w-2/3 pt-28 rounded-xl flex justify-center align-center max-sm:pt-8 max-sm:px-2 max-sm:w-screen max-sm:flex-col max-sm:text-center">
+        <div className="container mx-auto w-2/3 pt-28 pb-8 rounded-xl flex justify-center align-center max-sm:pt-8 max-sm:px-2 max-sm:w-screen max-sm:flex-col max-sm:text-center">
           <div className="w-1/3 mr-20 max-sm:mr-0 max-sm:w-full">
             <h1 className="text-5xl font-bold mb-4">
               <span className="text-primary">All-in-One</span> Toolkit
