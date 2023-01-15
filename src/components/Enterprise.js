@@ -1,11 +1,11 @@
 function Enterprise() {
   return (
-    <div className="pb-20 max-sm:mx-2 max-sm:w-screen">
+    <div className="pb-20 max-sm:mx-0 max-sm:w-screen">
       <div
         id="enterprise"
         className="container mx-auto w-full pt-28 rounded-xl flex justify-center align-center max-sm:w-full max-sm:flex-col max-sm:text-center max-sm:pt-4"
       >
-        <div className="flex flex-col justify-center align-items-center text-center w-2/3 max-sm:px-2 max-sm:w-screen">
+        <div className="flex flex-col justify-center align-items-center text-center w-2/3 max-sm:px-0 max-sm:w-screen">
           <p className="text-primary text-base font-bold tracking-wide">
             GEAR UP FOR SCALE
           </p>
@@ -17,10 +17,10 @@ function Enterprise() {
             collaboration at the world's biggest companies.
           </p>
           <div className="flex flex-between align-items-center justify-center gap-10 p-5 max-sm:gap-4">
-            <button className="border border-2 border-primary px-10 py-4 rounded-lg bg-primary text-white font-semibold text-sm max-xs:text-base hover:opacity-80 hover:scale-105 transition duration-250 max-sm:px-4">
+            <button className="border border-2 border-primary px-10 py-4 rounded-lg bg-primary text-white font-semibold text-sm max-xs:text-base hover:opacity-80 hover:scale-105 transition duration-250 max-sm:px-1">
               CHILLER FOR ENTERPRISE
             </button>
-            <button className="border border-2 border-primary px-10 py-4 rounded-lg bg-white text-primary font-semibold text-sm max-xs:text-base hover:opacity-80 hover:scale-105 transition duration-250 max-sm:px-4">
+            <button className="border border-2 border-primary px-10 py-4 rounded-lg bg-white text-primary font-semibold text-sm max-xs:text-base hover:opacity-80 hover:scale-105 transition duration-250 max-sm:px-1">
               TALK TO SALES
             </button>
           </div>

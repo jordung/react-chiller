@@ -6,7 +6,7 @@ function Features() {
     <div className="pb-20 max-sm:mx-0 max-sm:pb-4 max-sm:w-screen bg-gray-100">
       <div
         id="features"
-        className="container mx-auto w-full pt-28 max-sm:pt-8 rounded-xl flex justify-center align-center max-sm:mx-0 max-sm:pt-44 max-sm:w-screen max-sm:flex-col max-sm:text-center"
+        className="container mx-auto w-full pt-28 max-sm:pt-8 rounded-xl flex justify-center align-center max-sm:mx-0 max-sm:w-screen max-sm:flex-col max-sm:text-center"
       >
         <div className="flex flex-col justify-center align-items-center text-center w-2/3 max-sm:w-full">
           <p className="text-primary text-base font-bold tracking-wide">

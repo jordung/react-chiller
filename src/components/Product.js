@@ -10,7 +10,7 @@ function Product() {
           id="product"
           className="container mx-auto w-2/3 pt-28 rounded-xl flex justify-center align-center max-sm:py-8 max-sm:w-screen max-sm:flex-col max-sm:text-center"
         >
-          <div className="w-1/3 mr-20 max-sm:w-full max-sm:mr-0 max-sm:px-2">
+          <div className="w-1/3 mr-20 max-sm:w-full max-sm:mr-0 max-sm:px-0">
             <h1 className="text-5xl font-bold mb-4">
               Bring Your Team <span className="text-primary">Together</span>
             </h1>
@@ -23,7 +23,7 @@ function Product() {
           </div>
           <img className="w-1/3 max-sm:hidden" src={sharing} alt="sharing" />
         </div>
-        <div className="container mx-auto w-2/3 pt-28 rounded-xl flex justify-center align-center max-sm:pt-8 max-sm:px-2 max-sm:w-screen max-sm:flex-col max-sm:text-center">
+        <div className="container mx-auto w-2/3 pt-28 rounded-xl flex justify-center align-center max-sm:py-8 max-sm:px-0 max-sm:w-screen max-sm:flex-col max-sm:text-center">
           <img className="w-1/3 max-sm:hidden" src={anywhere} alt="anywhere" />
           <div className="w-1/3 ml-20 max-sm:ml-0 max-sm:w-full">
             <h1 className="text-5xl font-bold mb-4">
@@ -36,7 +36,7 @@ function Product() {
             </p>
           </div>
         </div>
-        <div className="container mx-auto w-2/3 pt-28 pb-8 rounded-xl flex justify-center align-center max-sm:pt-8 max-sm:px-2 max-sm:w-screen max-sm:flex-col max-sm:text-center">
+        <div className="container mx-auto w-2/3 pt-28 pb-8 rounded-xl flex justify-center align-center max-sm:py-8 max-sm:px-0 max-sm:w-screen max-sm:flex-col max-sm:text-center">
           <div className="w-1/3 mr-20 max-sm:mr-0 max-sm:w-full">
             <h1 className="text-5xl font-bold mb-4">
               <span className="text-primary">All-in-One</span> Toolkit

@@ -6,10 +6,10 @@ import google from "../assets/images/google-logo.svg";
 
 function Hero(props) {
   return (
-    <div className="max-sm:pt-12 max-sm:w-screen max-sm:px-4 container mx-auto w-2/3 pt-28 rounded-xl flex flex-col justify-evenly align-center h-screen">
+    <div className="max-sm:pt-12 max-sm:w-screen max-sm:px-0 max-sm:mx-1 container mx-auto w-2/3 pt-28 rounded-xl flex flex-col justify-evenly align-center h-screen">
       <div className="flex max-sm:flex-col">
         <div className="w-1/2 pt-14 max-sm:w-full">
-          <h1 className="text-8xl text-transparent font-bold mb-1 bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">
+          <h1 className="text-8xl max-sm:text-6xl text-transparent font-bold mb-1 bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">
             Chiller
           </h1>
           <p className="text-gray-600 font-bold text-2xl text-lg mb-5">
