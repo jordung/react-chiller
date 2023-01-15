@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-chiller/static/css/main.69b5151a.css",
+    "main.js": "/react-chiller/static/js/main.a933588c.js",
+    "static/media/react-logo.png": "/react-chiller/static/media/react-logo.81ed438b18e24116794d.png",
+    "static/media/tailwind-logo.png": "/react-chiller/static/media/tailwind-logo.46d61abb086e8a8bd39e.png",
+    "static/media/sharing.svg": "/react-chiller/static/media/sharing.765e37e990d942dba2ffb75b671194f0.svg",
+    "static/media/anywhere.svg": "/react-chiller/static/media/anywhere.74ed937078fa0d54fae066df5ab92744.svg",
+    "static/media/chiller.png": "/react-chiller/static/media/chiller.4f3904e3375fbb180504.png",
+    "static/media/information.svg": "/react-chiller/static/media/information.b5fc08e61c4680c4e89b140dda08d518.svg",
+    "static/media/hero-chat.svg": "/react-chiller/static/media/hero-chat.d89bb6f5068a6673bf454a541b0d336e.svg",
+    "static/media/uber-logo.svg": "/react-chiller/static/media/uber-logo.6da369022c726a021cf3046fd29b1b24.svg",
+    "static/media/airbnb-logo.svg": "/react-chiller/static/media/airbnb-logo.7af2ee95625e51c5e2c7723e075fe865.svg",
+    "static/media/google-logo.svg": "/react-chiller/static/media/google-logo.64742f6405be8486218c501395b08ccb.svg",
+    "index.html": "/react-chiller/index.html",
+    "main.69b5151a.css.map": "/react-chiller/static/css/main.69b5151a.css.map",
+    "main.a933588c.js.map": "/react-chiller/static/js/main.a933588c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b5151a.css",
+    "static/js/main.a933588c.js"
+  ]
+}
